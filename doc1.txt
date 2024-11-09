@@ -1,1 +1,4 @@
-banana banana banana
+Para este proyecto, se utilizó el conjunto de datos CIFAR-100 para entrenar una red neuronal convolucional (CNN). El análisis de datos inicial implicó:
+Normalización de datos: los valores de píxeles se normalizaron para oscilar entre 0 y 1 dividiéndolos por 255,0.
+Exploración de datos: examinó brevemente imágenes de muestra y sus etiquetas correspondientes para comprender la diversidad y complejidad del conjunto de datos.
+
